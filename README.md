@@ -7,5 +7,12 @@ This repository aims to learn C++ language and improving skills with the course 
 ## Contents
 
 - [Chapter 1](chapter_1)
-    - [Unit 1.6](chapter_1/unit_1_6)
-
+    - [Section 1.6](chapter_1/section_1_6)
+        - [Unit 1.6.7](chapter_1/section_1_6/unit_1_6_7)
+    - [Section 1.8](chapter_1/section_1_8)
+        - [Unit 1.8.4](chapter_1/section_1_8/unit_1_8_4)
+        - [Unit 1.8.8](chapter_1/section_1_8/unit_1_8_8)
+        - [Unit 1.8.8](chapter_1/section_1_8/unit_1_8_10)
+        - [Unit 1.8.8](chapter_1/section_1_8/unit_1_8_11)
+        - [Unit 1.8.8](chapter_1/section_1_8/unit_1_8_12)
+        - [Unit 1.8.8](chapter_1/section_1_8/unit_1_8_13)

@@ -31,3 +31,17 @@
 *.exe
 *.out
 *.app
+
+# Ignore all files in the Debug/ directory
+debug/
+
+# Ignore all files in the .vs/ directory
+.vs/
+
+# Ignore all VC++ Project files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Ignore Visual Studio Solution files
+*.sln
