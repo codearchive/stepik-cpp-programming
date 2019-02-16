@@ -16,3 +16,6 @@ This repository aims to learn C++ language and improving skills with the course 
         - [Unit 1.8.11](chapter_1/section_1_8/unit_1_8_11/unit_1_8_11)
         - [Unit 1.8.12](chapter_1/section_1_8/unit_1_8_12/unit_1_8_12)
         - [Unit 1.8.13](chapter_1/section_1_8/unit_1_8_13/unit_1_8_13)
+- [Chapter 2](chapter_2)
+    - [Section 2.2](chapter_2/section_2_2)
+        - [Unit 2.2.8](chapter_2/section_2_2/unit_2_2_8)
