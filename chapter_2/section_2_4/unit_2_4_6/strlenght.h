@@ -1,5 +1,5 @@
-#ifndef STRLEN_H
-#define STRLEN_H
+#ifndef STRLENGHT_H
+#define STRLENGHT_H
 
 unsigned strlength(const char *str);
 
