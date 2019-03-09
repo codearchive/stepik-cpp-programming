@@ -25,4 +25,7 @@ This repository aims to learn C++ language and improving skills with the course 
     - [Section 2.4](chapter_2/section_2_2)
         - [Unit 2.4.6](chapter_2/section_2_4/unit_2_4_6)
         - [Unit 2.4.7](chapter_2/section_2_4/unit_2_4_7)
-        - [Unit 2.4.8](chapter_2/section_2_4/unit_2_4_8)
+        - [Unit 2.4.8](chapter_2/section_2_4/unit_2_4_8)    
+    - [Section 2.6](chapter_2/section_2_6)
+        - [Unit 2.6.9](chapter_2/section_2_6/unit_2_6_9)
+        - [Unit 2.6.10](chapter_2/section_2_6/unit_2_6_10)
