@@ -27,18 +27,10 @@ struct String {
 		int n = this->size + other.size;
 		char * temp = new char[n + 1];
 		strcpy(temp, this->str);
-		char * begginOfTemp = &temp[0];
-		char * firstLetter = &other.str[0];
-		while (*temp == this->str[0]) temp++;
-		while (*other.str == *firstLetter)
-		{
-			*temp = *other.str;
-			temp++;
-			other.str++;
-		}
+		strcat(temp, other.str);
 		temp[n] = '\0';
 		delete[] this->str;
-		this->str = begginOfTemp;
+		this->str = &temp[0];
 		this->size = strlen(this->str);
 	}
 };
@@ -54,8 +46,8 @@ int main()
 	cout << "Size of 2nd string: " << str_2.size << endl;
 
 	str_1.append(str_2);
-	cout << "Size of result string: " << str_1.size << endl;
-	cout << "Result string: " << str_1.str << endl;
+	cout << "Size of result string: " << str_2.size << endl;
+	cout << "Result string: " << str_2.str << endl;
 
 	return 0;
 }

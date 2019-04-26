@@ -35,3 +35,4 @@ This repository aims to learn C++ language and improving skills with the course 
     - [Section 3.3](chapter_3/section_3_3)
         - [Unit 3.3.10](chapter_3/section_3_3/unit_3_3_10)
         - [Unit 3.3.11](chapter_3/section_3_3/unit_3_3_11)
+        - [Unit 3.3.12](chapter_3/section_3_3/unit_3_3_12)
